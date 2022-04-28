@@ -1,8 +1,7 @@
 #include <stdio.h>
 int main() 
 {
-int , original, remainder, reversed;
-    reversed=0;
+int , original, remainder, reversed=0;
     printf("Enter a number:");
     scanf("%d",&x);
     original=x;
